@@ -1,7 +1,8 @@
 #Post-Epicodus Plan
+
 ### By Qudsia Ahmad
 
-### Hands-On:
+## Hands-On:
 * _Build out the front end of my capstone project._
 * _Use DaringFireball.net as a guide to polish the README's for all my github projects._
 * _re-add  paperclip gem ato my portfolio._
@@ -12,7 +13,7 @@
 * _Add a front-end to the travel API along with integration testing._
 * _Working through Epicodus' CSS Design course and creating one project using animation (SASS)_
 
-### Outreach and Connections:
+## Outreach and Connections:
 * _Schedule monthly meetings with my mentor._
 * _Apply to open volunteer positions at the local chapter of WomenWhoCode._
 * _Update my resume to include skills gained from ongoing studies, internship experience._
@@ -22,7 +23,7 @@
 * _Use Catchafire to find and volunteer tech support at a local non-profit._
 * _Teach my sons basic HTML and CSS by having them make their own websites with pictures._
 
-### Studies:
+## Studies:
 * _Sign up for a class titled "Cloud Support Fundamentals." and "Photoshop1 and 2" at the community college._
 * _Join bi-weekly data-science classes taught by volunteers from big-data companies at the local mosque._
 * _Learn to use templates and editing tools in GoogleDocs more proficiently by following a TreeHouse or Lynda.com course._
