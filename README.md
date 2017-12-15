@@ -1,9 +1,9 @@
-#Post-Epicodus Plan
+# Post-Epicodus Plan
 
 ### By Qudsia Ahmad
 
 ## Hands-On:
-* _Build out the front end of my capstone project._
+* _Build out the front end of my capstone project more fully, since it is primarily an app using tiered authorization right now._
 * _Use DaringFireball.net as a guide to polish the README's for all my github projects._
 * _re-add  paperclip gem ato my portfolio._
 * _Finish watching Udemy course "The Complete Ruby on Rails Developer Course" section on setting up email._
@@ -32,5 +32,5 @@
 
 #### Support and contact details
 
-_If you have questions, comments, or concerns, please contact me at [q4hmad](q4hmad@gmail.com)_
+_If you have questions, comments, or concerns, please contact me at [q4hmad](https://q4hmad@gmail.com)_
 Copyright (c) 2017  _Qudsia Ahmad_
